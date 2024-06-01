@@ -1,4 +1,5 @@
 # HollyWoodMoviePerformance
-![image](https://github.com/charliethomasct82/HollyWoodMoviePerformance/assets/93368865/599e76e7-c965-421a-b531-3987575a1a7c)
-![image](https://github.com/charliethomasct82/HollyWoodMoviePerformance/assets/93368865/75f28064-55b6-4f92-865e-54cb3ade9faa)
+# ![image](https://github.com/charliethomasct82/HollyWoodMoviePerformance/assets/93368865/43427a93-6382-4cf9-8dfd-18b6f6a1156b)
+# ![image](https://github.com/charliethomasct82/HollyWoodMoviePerformance/assets/93368865/14e5679b-6e2f-45a0-b749-586696c7d0dd)
+
 
